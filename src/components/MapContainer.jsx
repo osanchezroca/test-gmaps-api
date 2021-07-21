@@ -4,7 +4,7 @@ import MarkerComponent from "./MarkerComponent";
 
 export default function MapContainer({markers}) {
     return <GoogleMap
-        bootstrapURLKeys={{key: ''}}
+        bootstrapURLKeys={{key: 'fake'}}
         defaultCenter={{lat: 40.4381311, lng: -3.8196194}}
         defaultZoom={7}
         yesIWantToUseGoogleMapApiInternals
