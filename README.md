@@ -8,6 +8,6 @@ It displays a map with some locations, then it's allowed to select some of them.
 
 ![Step1](./screenshots/img1.jpeg)
 
-![Step2](./screenshots/img1.jpeg)
+![Step2](./screenshots/img2.jpeg)
 
-![Step3](./screenshots/img1.jpeg)
+![Step3](./screenshots/img3.jpeg)
